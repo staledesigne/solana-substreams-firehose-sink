@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-substreams-firehose-sink"]
+resolver = "2"
